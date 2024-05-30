@@ -10,7 +10,7 @@
 #
 # Then, build the image with:
 #
-# docker build -f src/main/docker/Dockerfile.native-micro -t quarkus/bike-service .
+# docker build -f src/main/docker/Dockerfile -t quarkus/bike-service .
 #
 # Then run the container using:
 #
